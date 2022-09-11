@@ -14,6 +14,11 @@ public class VariableLearning {
         System.out.println(Byte.MIN_VALUE);
 
         short myByteNum = 128;
+        long myLongNum = 12L;
+
+
+        final float PI_NUMBER = 3.14F; // (nhớ luôn luôn để chữ F khi dùng Float)
+
 
     }
 }
